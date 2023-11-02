@@ -43,6 +43,18 @@ Eine Auszeichnungssprache (englisch markup language, abgekürzt ML) ist eine mas
 
 ## Programm Strukturen
 
+### Variablen
+
+Variablen sind wie in der Mathematik Platzhalter für einen Wert. Ein einfacher Speicher.  
+Variablen werden **deklariert** (Benennung) und dann **initialisiert** (Wertzuweisung).
+
+```
+int a;
+
+a = 5;
+
+```
+
 ### Bedingungen
 
 ```
@@ -71,4 +83,17 @@ Solange das gilt tu das
 FOR(Anfangswert;Bedingung;Schritt){
 Tu das
 }
+```
+
+### Funktionen
+
+Funktionen sind benannte Code-Blöcke die man durch Verwendung des Names überall und so oft man will im Programm einsetzen kann.
+
+```
+function halbierenUndPlusEins(zahl){
+    return (zahl / 2) + 1
+}
+
+
+variable = halbierenUndPlusEins(4)
 ```
