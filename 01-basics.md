@@ -85,6 +85,20 @@ Tu das
 }
 ```
 
+#### Abbrechen und Überspringen
+
+```
+    {# In einer Schleife
+    BREAK
+    }
+<----
+```
+
+```
+    {# In einer Schleife <----
+    CONTINUE
+    }
+```
 ### Funktionen
 
 Funktionen sind benannte Code-Blöcke die man durch Verwendung des Names überall und so oft man will im Programm einsetzen kann.
@@ -97,3 +111,18 @@ function halbierenUndPlusEins(zahl){
 
 variable = halbierenUndPlusEins(4)
 ```
+
+### Errors
+Die `Error`-Klasse ist ein wichtiges Werkzeug für das Programmieren. Sie ermöglicht es dir, Fehler in deinen Programmen abzufangen und zu behandeln.
+```
+throw Error('Hier geht's nicht mehr weiter')
+```
+
+```
+try{
+    # Unsicherer Code
+}catch{
+    # Falls ein Fehler auftritt führe das hier aus
+}
+```
+
