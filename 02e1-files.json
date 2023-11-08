@@ -1,0 +1,56 @@
+[
+    {
+        "name": "Der Herr der Ringe",
+        "author": "J.R.R. Tolkien",
+        "erscheinungsjahr": 1954,
+        "preis": 19.90
+    },
+    {
+        "name": "Harry Potter und der Stein der Weisen",
+        "author": "J.K. Rowling",
+        "erscheinungsjahr": 1997,
+        "preis": 12.90
+    },
+    {
+        "name": "Die unendliche Geschichte",
+        "author": "Michael Ende",
+        "erscheinungsjahr": 1979,
+        "preis": 15.90
+    },
+    {
+        "name": "Der kleine Prinz",
+        "author": "Antoine de Saint-Exupéry",
+        "erscheinungsjahr": 1943,
+        "preis": 10.90
+    },
+    {
+        "name": "1984",
+        "author": "George Orwell",
+        "erscheinungsjahr": 1949,
+        "preis": 14.90
+    },
+    {
+        "name": "Vom Winde verweht",
+        "author": "Margaret Mitchell",
+        "erscheinungsjahr": 1936,
+        "preis": 13.90
+    },
+    {
+        "name": "Der Name der Rose",
+        "author": "Umberto Eco",
+        "erscheinungsjahr": 1980,
+        "preis": 19.90
+    },
+    {
+        "name": "Die Bibel",
+        "author": "Unbekannt",
+        "erscheinungsjahr": 0,
+        "preis": 29.90
+    },
+    {
+        "name": "Die Alchemist",
+        "author": "Paulo Coelho",
+        "erscheinungsjahr": 1988,
+        "preis": 12.90
+    }
+]
